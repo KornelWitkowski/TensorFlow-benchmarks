@@ -10,7 +10,7 @@
 | _horses_or_humans_    |           95,72      |          87,50          |    -    |
 | _food101_             |           -          |          -              |    -    |
 | _rock_paper_scissors_ |           98,85      |          81,72          |    -    |
-| _tf_flowers_          |           75,10      |          21,80          |    -    |
+| _tf_flowers_          |           75,10      |          63,62          |    -    |
 
 ## NLP
 

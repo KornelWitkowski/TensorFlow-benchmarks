@@ -17,5 +17,5 @@ Benchmarks of popular Tensorflow dataset with models built from scratch.
 
 | Dataset               | Accuracy: train data | Accuracy: test data | Remarks |
 |-----------------------|----------------------|---------------------|---------|
-| _goemotions_          |           67.17      |          45.38      |    Highly unbalanced dataset. NLP augmentation used. Precision on the test dataset: 61.90%   |
+| _goemotions_          |           67.17      |          45.38      |    Highly unbalanced dataset. NLP augmentation used. Precision in the test dataset: 61.90%   |
 | _imdb_reviews_        |           98.05      |          83.20      |    -    |

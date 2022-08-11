@@ -11,7 +11,7 @@ Benchmarks of popular Tensorflow dataset with models built from scratch.
 | _horses_or_humans_    |           99.81      |          88.67          |    -    |
 | _food101_             |           -          |          -              |    -    |
 | _rock_paper_scissors_ |           100        |          87.10          |    -    | 
-| _tf_flowers_          |           81.30      |          80.65          |    -    |
+| _tf_flowers_          |           84.78      |          82.97         |    resnet architecture, mixed precision training    |
 
 ## NLP
 

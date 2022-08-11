@@ -1,6 +1,6 @@
 # TensorFlow dataset benchmarks 
 
-Benchmarks of popular Tensorflow dataset with models built from scratch.
+Benchmarks of popular Tensorflow datasets with models built from scratch.
 
 ## Image classification
 

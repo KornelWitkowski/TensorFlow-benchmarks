@@ -7,7 +7,7 @@ Benchmarks of popular Tensorflow datasets with models built from scratch.
 | Dataset               |Accuracy: train data[%]| Accuracy: test data[%] | Remarks |
 |-----------------------|----------------------|-------------------------|---------|
 | _MNIST_               |           99.93      |          98.76          |    -    |
-| _FASHION Mnist_       |           95.03      |          91.05          |    -    |
+| _FASHION Mnist_       |           97.37      |          91.69          |    -    |
 | _horses_or_humans_    |           99.81      |          88.67          |    -    |
 | _food101_             |           -          |          -              |    -    |
 | _rock_paper_scissors_ |           100        |          87.10          |    -    | 

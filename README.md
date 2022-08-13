@@ -10,7 +10,7 @@ Benchmarks of popular Tensorflow datasets with models built from scratch.
 | _FASHION Mnist_       |           97.37      |          91.69          |    -    |
 | _horses_or_humans_    |           99.81      |          88.67          |    -    |
 | _food101_             |           -          |          -              |    -    |
-| _rock_paper_scissors_ |           100        |          87.10          |    -    | 
+| _rock_paper_scissors_ |           99.80      |          100           |    Converted from RGB to gray scale   | 
 | _tf_flowers_          |           84.78      |          82.97         |    resnet architecture, mixed precision training    |
 
 ## NLP

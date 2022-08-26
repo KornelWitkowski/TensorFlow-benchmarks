@@ -6,7 +6,7 @@ Benchmarks of popular Tensorflow datasets with models built from scratch.
 
 | Dataset               |Accuracy: train data[%]| Accuracy: test data[%] | Remarks |
 |-----------------------|----------------------|-------------------------|---------|
-| _MNIST_               |           99.98      |          98.42          |    Autocoder used    |
+| _MNIST_               |           99.98      |          98.42          |    Autoencoder used    |
 | _FASHION Mnist_       |           97.37      |          91.69          |    -    |
 | _horses_or_humans_    |           95.13      |          93.36          |    Converted from RGB to grayscale   |
 | _food101_             |           -          |          -              |    -    |
